@@ -1,0 +1,16 @@
+[
+{
+  "modid": "horsebreedfix",
+  "name": "Overreacted's Horse Breeding Fix",
+  "description": "A simple mod that makes breeding horses more efficient by adding an extra 5 - 10% bonus to each attribute of the newborn horse.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Overreactedosbol"],
+  "credits": "Xuaran, for suggesting the idea.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
